@@ -46,7 +46,7 @@ A correlation matrix can be used to identify highly correlated features, which c
 
 The chi-squared test is a statistical test that is commonly used in feature selection for determining the relationship between variables in a dataset. The test can be used to evaluate the association between a categorical feature and a categorical target variable. It calculates the chi-squared statistic, which measures the deviation between the expected frequencies of the feature values and the observed frequencies in the target variable
 
-![cat variable](https://github.com/nileshparab42/Car-Dekho-Selling-Price-Prediction/blob/master/assets/con-ana.png)
+![cat variable](https://github.com/nileshparab42/Car-Dekho-Selling-Price-Prediction/blob/master/assets/cat-ana.png)
 
 #### t-test
 
